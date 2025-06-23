@@ -12,7 +12,7 @@ import WebCraft from '@/images/logos/WebCraftIT_logo.svg'
 import Vinfotech from '@/images/logos/Vinfotech_logo.svg'
 import Northeastern from '@/images/logos/NEU_logo.svg'
 import VIT from '@/images/logos/VIT_logo.svg'
-import DC from '@/images/logos/DC_Logo.svg'
+import DC from '@/images/logos/DC_logo.svg'
 import { getAllArticles } from '@/lib/articles'
 import { formatDate } from '@/lib/formatDate'
 
