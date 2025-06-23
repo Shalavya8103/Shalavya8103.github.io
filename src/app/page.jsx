@@ -5,6 +5,7 @@ import Link from 'next/link'
 
 import { Card } from '@/components/Card'
 import { Container } from '@/components/Container'
+import { Button } from '@/components/Button'
 import { GitHubIcon, LinkedInIcon, XIcon } from '@/components/SocialIcons'
 import ASAP from '@/images/logos/ASAP_logo.svg'
 import TMDC from '@/images/logos/TMDC_Logo.svg'
@@ -276,6 +277,16 @@ export default async function Home() {
               aria-label="Follow on GitHub"
               icon={GitHubIcon}
             />
+          </div>
+          <div className="mt-6">
+            <Button
+              href="/resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              variant="secondary"
+            >
+              View Resume
+            </Button>
           </div>
         </div>
       </Container>
