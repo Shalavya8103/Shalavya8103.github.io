@@ -215,7 +215,7 @@ function Resume() {
       title: 'Data Science Intern',
       logo: ASAP,
       start: 'December 2023',
-      end: December 2024',
+      end: 'December 2024',
     },
     {
       company: 'Vinfotech Pvt.Ltd.',
