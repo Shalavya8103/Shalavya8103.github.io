@@ -211,18 +211,11 @@ function Resume() {
       end:'April 2025',
     },
     {
-      company: 'WebCraft IT',
-      title: 'Machine Learning Intern',
-      logo: WebCraft,
-      start: 'June 2024',
-      end: 'December 2024',
-    },
-    {
       company: 'ASAP Infotech',
       title: 'Data Science Intern',
       logo: ASAP,
       start: 'December 2023',
-      end: 'February 2024',
+      end: December 2024',
     },
     {
       company: 'Vinfotech Pvt.Ltd.',
